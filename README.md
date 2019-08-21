@@ -1,4 +1,4 @@
-# progconcorrente-atividade1
+# Programação Concorrente - Atividade 1
 Atividade 1 - Programação Concorrente
 
 1. Faça um programa em Java que inicie três threads e, cada
@@ -8,7 +8,8 @@ thread, espere um tempo aleatório para terminar.
 texto com frases e exiba as frases a cada 10 segundos.
 
 3. Faça um programa Java que envia interrupções para as
-threads dos exercı́cios anteriores. As threads devem fazer o
+threads dos exercı́cios anteriores (faça uma cópia e
+modifique para esse exercício). As threads devem fazer o
 tratamento dessas interrupções e realizar uma finalização
 limpa.
 
